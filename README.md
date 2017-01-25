@@ -58,7 +58,7 @@ Run the commands below:
 
 Component | URL | user/password |
 ---|---|---|
-Graylog | https://192.168.99.105:9000 | admin/admin |
+Graylog | http://192.168.99.105:9000 | admin/admin |
 
 In order to get docker daemon log configured on graylog please create a UDP GELF, following this [guide] (https://www.graylog.org/blog/28-centralized-docker-container-logging-with-native-graylog-integration) (note you can skip the docker stuff of this guide)
 
