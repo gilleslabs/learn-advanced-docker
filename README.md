@@ -14,7 +14,7 @@ Compose will build and run below containers:
 
 + **Graylog Server**
 + **MongoDB Database**
-+ **Elasticsearch **
++ **Elasticsearch**
 
 Once Docker launch it runs Docker Security Benchmark.
 
@@ -42,7 +42,7 @@ Run the commands below:
 	cd learn-csa
 
 
-###### Launching CSA ready-to-go VM:
+###### Launching advanced-docker ready-to-go VM:
 
 1. Run the command below:
 
